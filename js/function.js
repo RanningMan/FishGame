@@ -10,7 +10,7 @@ var my;
 var ctx1;
 var ctx2;
 
-var lastTime = Date.now();;
+var lastTime = Date.now();
 var deltaTime;
 
 var bgPic = new Image();
